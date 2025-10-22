@@ -24,7 +24,7 @@ I’ m a passionate and results-driven Software Developer with a solid foundatio
 
 ### 📘 Projects
 - 🧭 [AI Document Search (RAG Chatbot)](https://github.com/RajamainaAbhinav/ai-document-search) — Semantic search using FAISS + OpenAI + FastAPI  
-- 🚗 [AI-Based Traffic Management System](https://github.com/RajamainaAbhinav/ai-traffic-system) — Smart routing & congestion control using ML  
+- 🚗 [Facial Recognition](https://github.com/RajamainaAbhinav/ai-facial-recognition) —   
 
 ---
 
